@@ -1,7 +1,7 @@
-# Laboratório de Áudio e Tecnologias Musicais
+# Laboratory of Audio and Music Technology
 
-O LATM é um laboratório de pesquisa, desenvolvimento e inovação em tecnologias de áudio, computação sonora e musical, vinculado à Escola de Artes, Ciências e Humanidades (EACH) da Universidade de São Paulo (USP).
+LATM is a research, development and innovation laboratory for audio, sound and music computing technologies, linked to the School of Arts, Sciences and Humanities (EACH) of the University of São Paulo (USP).
 
-Além de pesquisa o laboratório realiza atividades de extensão, como seminários e eventos científicos, e hospeda atividades de educação, como cursos de graduação, pós-graduação, treinamento e capacitação, bem como atividades voltadas para criação sonora, produção cultural e artística mediada por tecnologias.
+Besides research, LATM carries out educational activities — such as undergraduate, postgraduate and training courses, extension activities — such as seminars and scientific events, and sound creation, cultural and artistic production mediated by technologies.
 
-Defendemos valores éticos e humanistas, e buscamos adotar no projeto de novas tecnologias posturas altruístas e posições que defendam o bem estar e a evolução como diretrizes norteadoras. Este repositório é um ponto de informação sobre os projetos e de distribuição de desenvolvimentos realizados pela equipe e colaboradores do laboratório.
+We defend ethical and humanistic values and adopt altruistic attitudes that defend well-being and evolution as guidelines in the design of new technologies. This repository is a point of information about our projects and distribution of our developments.
