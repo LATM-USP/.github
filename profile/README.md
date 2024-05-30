@@ -2,6 +2,6 @@
 
 LATM is a research, development and innovation laboratory for audio, sound and music computing technologies, linked to the School of Arts, Sciences and Humanities (EACH) of the University of São Paulo (USP).
 
-Besides research, LATM carries out educational activities — such as undergraduate, postgraduate and training courses, extension activities — such as seminars and scientific events, and sound creation, cultural and artistic production mediated by technologies.
+Besides research, LATM develops educational activities — such as undergraduate, postgraduate and training courses — promotes seminars and scientific events, and carries out activities in sound creation, supporting cultural and artistic production mediated by technologies.
 
-We defend ethical and humanistic values and adopt altruistic attitudes that defend well-being and evolution as guidelines in the design of new technologies. This repository is a point of information about our projects and distribution of our developments.
+We advocate ethical and humanistic values and adopt altruistic attitudes that defend well-being and evolution as guidelines in the design of new technologies. This repository is a point of information about our projects and for distribution of developments.
