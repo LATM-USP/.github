@@ -1,4 +1,4 @@
-# Laboratory of Audio and Music Technology
+# Laboratory of Audio and Music Technology - LATM
 
 LATM is a laboratory for research, development and innovation in sound and music computing and audio technologies, linked to the School of Arts, Sciences and Humanities (EACH) of the University of São Paulo (USP).
 
